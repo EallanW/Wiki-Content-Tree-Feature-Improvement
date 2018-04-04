@@ -20,4 +20,5 @@
 在一些圖表或需要其他各式中，可以通過展開/收起功能使排版更加美觀。
 #### 5.可以先在MediaWiki上實現以上功能，再和Wikipedia員工反映這個功能與實現。
 MediaWiki是一個開源項目，可以在自己的電腦上搭，所以可以在此實現。
+
 鏈接：[https://www.mediawiki.org/wiki/MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
